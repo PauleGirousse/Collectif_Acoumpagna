@@ -1,0 +1,39 @@
+header {
+      ul {
+            list-style-type: none;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+      }
+      a {
+            text-decoration: none;
+      }
+      img {
+            width: 120px;
+            height: 100px;
+      }
+}
+footer {
+      ul {
+            list-style-type: none;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-evenly;
+            align-items: center;
+      }
+}
+.fondation {
+      img {
+            width: 150px;
+      }
+}
+.departement {
+      img {
+            width: 150px;
+      }
+}
+.iperia {
+      img {
+            width: 200px;
+      }
+}
